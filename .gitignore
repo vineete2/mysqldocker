@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+data/c943a21d8bd3.pid
+data/dbpedia_metrics/
+data/f6ea3823a79b.pid
+data/ib_logfile0
+data/ib_logfile1
+data/ibdata1
+data/mysql/
+data/performance_schema/
+src/
